@@ -1,0 +1,15 @@
+/data/
+/artifacts/
+/Articles/
+/Checkpoint/
+/research/weather-model-comparison/data/
+/research/weather-model-comparison/Checkpoint/
+/research/boosting-weather-comparison/data/
+/research/boosting-weather-comparison/Checkpoint/
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+.env.*
+*.egg-info/
